@@ -3,3 +3,11 @@ GET {{host}}/api/calc/brokerage?actionType=PURCHASE&price=10000000000
 
 ### 중개수수료 - 임대차
 GET {{host}}/api/calc/brokerage?actionType=RENT&price=10000000000
+
+
+### 중개수수료 - 임대차
+GET {{host}}/api/calcu/apartment/1?actionType=PURCHASE
+
+### 중개수수료 - 임대차
+GET {{host}}/api/calcu/apartment/1?actionType=RENT
+
