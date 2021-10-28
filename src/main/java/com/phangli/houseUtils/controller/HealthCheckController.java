@@ -5,6 +5,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author soo
+ *
+ * 서비스 헬스 체크를 위한 컨트롤러
  */
 @RestController
 public class HealthCheckController {
