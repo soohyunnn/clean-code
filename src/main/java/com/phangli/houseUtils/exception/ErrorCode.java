@@ -3,9 +3,7 @@ package com.phangli.houseUtils.exception;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
-/**
- * @author Happy
- */
+
 @AllArgsConstructor
 @Getter
 public enum ErrorCode {

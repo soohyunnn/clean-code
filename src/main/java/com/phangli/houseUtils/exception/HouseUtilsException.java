@@ -1,7 +1,5 @@
 package com.phangli.houseUtils.exception;
-/**
- * @author Happy
- */
+
 public class HouseUtilsException extends RuntimeException {
     private ErrorCode errorCode;
     private String message;
